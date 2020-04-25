@@ -12,7 +12,7 @@ Repeat the simulation in either R or Python (no excel please!) with the followin
 That's all worth 9 points.  If you want the 10th point answer the following:
 4.  If I wanted to remove $10,000 per month and wanted to have 95% confidence that I wouldn't run out of money.  How much would I need to save up before retirement?
 
-## Notes
+## Notes:
 
 To run the code first run
 ```
