@@ -1,0 +1,8 @@
+ coltri@memocolt2018  ~/masters/data mining 1/final_hw  ./option1.py --withdrawl_amount=10000 --savings=3500000                                      ✔  1373  23:20:20
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [01:23<00:00, 12.03it/s]
+Number of Simulations: 1000
+Successes (Positive Balance): 958
+Chance of Success: 0.958
+Failures (Negative Balance): 42
+Chance of Failure: 0.042
+Average Amount Left (mean): 9591833.672674153

@@ -1,0 +1,24 @@
+ coltri@memocolt2018  ~/masters/data mining 1/final_hw  ./option1.py --withdrawl_amount=3000                                                         ✔  1364  22:57:22
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [01:24<00:00, 11.80it/s]
+Number of Simulations: 1000
+Successes (Positive Balance): 947
+Chance of Success: 0.947
+Failures (Negative Balance): 53
+Chance of Failure: 0.053
+Average Amount Left (mean): 2644687.865773546
+ coltri@memocolt2018  ~/masters/data mining 1/final_hw  ./option1.py --withdrawl_amount=4000                                                         ✔  1365  23:04:24
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [01:23<00:00, 11.99it/s]
+Number of Simulations: 1000
+Successes (Positive Balance): 829
+Chance of Success: 0.829
+Failures (Negative Balance): 171
+Chance of Failure: 0.171
+Average Amount Left (mean): 1736937.1179021187
+ coltri@memocolt2018  ~/masters/data mining 1/final_hw  ./option1.py --withdrawl_amount=5000                                                         ✔  1366  23:06:38
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [01:25<00:00, 11.66it/s]
+Number of Simulations: 1000
+Successes (Positive Balance): 634
+Chance of Success: 0.634
+Failures (Negative Balance): 366
+Chance of Failure: 0.366
+Average Amount Left (mean): 1073795.6690193417
